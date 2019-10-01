@@ -1,0 +1,16 @@
+
+	body {
+	background-color: #0f0f0a;
+	color: #FFFFFF;
+	display: flex;
+	}
+
+	input {
+	color: #000000;
+	}
+	
+	button {
+	background-color: #33ff33;
+	color: #000000;
+	align-items: flex-end;
+	}
